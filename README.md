@@ -1,1 +1,1 @@
-# Customer Churn Prediction for Electrical Company
+# Predicting Electric and Gas Customer Churn Rates
